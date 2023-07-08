@@ -1,0 +1,2 @@
+module LAPkg
+end
